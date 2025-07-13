@@ -1,0 +1,58 @@
+
+#cnt {
+    height: auto;
+    width: 600px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px gainsboro;
+    margin: 10px auto;
+    padding: 15px;
+}
+
+.proDet {
+    display: flex;
+    text-align: justify;
+}
+
+.addToCart {
+    background-color:rgb(144, 228, 144);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-right: 20px;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+.addToCart:hover {
+    border: 2px solid darkseagreen;
+    background-color: white;
+    color: darkseagreen;
+}
+.back {
+    background-color:red;
+    border: none;
+    height: 30px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.back a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.back:hover {
+    border: 2px solid red;
+    background-color: white;
+}
+.back a:hover{
+    color:red;
+
+}
+
+#review{
+    border-top: 2px solid rgb(220, 219, 219);
+}
